@@ -1,0 +1,28 @@
+body {
+  background-color: #444;
+}
+
+.navbar-default {
+  background-color: #fff;
+}
+
+h1 {
+  text-align: center;
+  color: #999;
+  text-decoration: none;
+}
+
+.row {
+  padding:0 0 0 0;
+  margin:0 0 0 0;
+    margin-bottom:25px;
+}
+
+ul li {
+  list-style:none;
+  align-content: center;
+}
+
+ul li img {
+  cursor: pointer;
+}
