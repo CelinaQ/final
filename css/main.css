@@ -28,5 +28,44 @@ ul li img {
 
 .col-sm-12 {
   padding-bottom: 2rem;
-  padding-left: auto;
+}
+
+@media screen and (min-width: 1200px){
+
+  .arch {
+    content: url(../img/arch_thumb.jpg);
+  }
+
+  .camper {
+    content: url(../img/camper_thumb.jpg);
+  }
+
+  .castel {
+    content: url(../img/castel-san-angelo_thumb.jpg);
+  }
+
+  .opaque {
+    content: url(../img/opaque_thumb.jpg);
+  }
+
+  .alley1 {
+    content: url(../img/roman-alley_thumb.jpg);
+  }
+
+  .alley2 {
+    content: url(../img/roman-alley-2_thumb.jpg);
+  }
+
+  .alley3 {
+    content: url(../img/roman-alley-3_thumb.jpg);
+  }
+
+  .grafitti {
+    content: url(../img/roman-grafitti_thumb.jpg);
+  }
+
+  .vent {
+    content: url(../img/vent_thumb.jpg);
+  }
+
 }
